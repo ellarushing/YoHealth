@@ -1,4 +1,4 @@
-### Welcome to the YoHealth application!
+# Welcome to the YoHealth application!
 
 ## Objective/Features
 + Developed and implemented a GUI-based office automation system for pediatric doctor’s office. 
